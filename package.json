@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {
+    "when": "~2.8.0",
+    "source-map-support": "0.2.x",
+    "vineyard": "0.1.x",
+    "vineyard-fortress": "0.1.x",
+    "vineyard-ground": "0.1.x",
+    "vineyard-metahub": "0.1.x",
+    "vineyard-lawn": "0.1.x"
+  },
+  "devDependencies": {
+    "buster": "~0.7.8",
+    "vineyard-plantlab": "0.1.x",
+    "grunt-ts": "~1.x.x",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
