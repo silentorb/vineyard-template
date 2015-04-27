@@ -1,11 +1,10 @@
 /// <reference path="../node_modules/vineyard-ground/ground.d.ts"/>
 /// <reference path="../node_modules/vineyard-plantlab/plantlab.d.ts"/>
-declare function require(name:string):any;
 
 require('when/monitor/console');
 import PlantLab = require('vineyard-plantlab')
 var when = require('when')
-var pipeline = require('when/pipeline')
+var pipeline:any = require('when/pipeline')
 
 export class Fixture extends PlantLab.Fixture {
   users = {}

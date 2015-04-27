@@ -3,9 +3,10 @@
 
   },
   "trellises": {
+    "user": {
+      "properties": {
 
-  },
-  "logic": [
-
-  ]
+      }
+    }
+  }
 }

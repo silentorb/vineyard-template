@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "description": "",
   "dependencies": {
-    "when": "~2.8.0",
+    "when": "~3.6.3",
     "source-map-support": "0.2.x",
-    "vineyard": "0.1.x",
-    "vineyard-fortress": "0.1.x",
-    "vineyard-ground": "0.1.x",
+    "vineyard": "0.x.x",
+    "vineyard-fortress": "0.x.x",
+    "vineyard-ground": "0.x.x",
     "vineyard-metahub": "0.1.x",
-    "vineyard-lawn": "0.1.x"
+    "vineyard-lawn": "0.x.x"
   },
   "devDependencies": {
     "buster": "~0.7.8",

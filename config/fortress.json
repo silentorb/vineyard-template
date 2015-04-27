@@ -1,10 +1,23 @@
 {
-  "gates": [
+  "zones": [
     {
-      "type": "admin",
       "roles": ["admin"],
-      "on": [
-        "all"
+      "gates": [
+        {
+          "type": "global",
+          "actions": ["*"],
+          "resources": ["*"]
+        }
+      ]
+    },
+    {
+      "roles": ["anonymous", "member"],
+      "gates": [
+        {
+          "type": "global",
+          "actions": ["query"],
+          "resources": ["*"]
+        }
       ]
     }
   ]

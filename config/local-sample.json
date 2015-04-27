@@ -1,0 +1,17 @@
+{
+  "includes": [ "config/server.json" ],
+  "ground": {
+    "databases": {
+      "local": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "my_database"
+      }
+    }
+  },
+  "bulbs": {
+    "lawn": {
+    }
+  }
+}
