@@ -16,7 +16,7 @@ NOTE: To allow people to get up and running without knowing Fortress, this templ
     git clone https://github.com/silentorb/vineyard-template.git
     cd vineyard-template
     npm install
-    cp config/local-sample.json config.json
+    cp config/local-sample.json config/local.json
     ```
     
 3. Create a MySQL database.
