@@ -1,5 +1,18 @@
 # Vineyard Template #
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+  - [Schema and Database](#schema-and-database)
+  - [Writing Code](#writing-code)
+  - [Adding Bulbs](#adding-bulbs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Introduction ##
 
 This is a template Vineyard project to help you start making web services.
