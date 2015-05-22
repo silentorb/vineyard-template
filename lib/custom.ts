@@ -4,15 +4,17 @@
 
 var MetaHub = require('vineyard-metahub')
 var Ground = require('vineyard-ground')
-import Vineyard = require('vineyard')
 var when = require('when')
 var Lawn = require('vineyard-lawn')
 var pipeline:any = require('when/pipeline')
+import Vineyard = require('vineyard')
 
-class Rowing extends Vineyard.Bulb {
+class Custom extends Vineyard.Bulb {
   lawn
 
   grow() {
 
   }
 }
+
+export = Custom
